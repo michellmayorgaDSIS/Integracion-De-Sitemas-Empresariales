@@ -1,0 +1,6 @@
+El uso de módulo de CRM nos abre un abanico de posibilidades para crecer como negocio y entablar . El uso de la documentación oficial de Odoo es de gran ayuda para comprender mejor el propósito de cada módulo.
+Los resultados estarán en el extremo superior de lo que podría esperar de cualquier sistema ERP, y mucho menos un sistema de código abierto.
+Recomendamos el uso de un navegador actualizado para realizar nuestras pruebas y evitar posibles incompatibilidades con algunas funciones que implementa Odoo.
+SaaS se adapta a las necesidades de las pequeñas empresas que no tienen necesidades muy específicas
+Enla calidad operativa  a que hay menos tareas repetitivas para su personal, pueden concentrarse en un trabajo de mayor valor agregado
+Las considerables ganancias en productividad, eficiencia y visibilidad se hacen evidentes solo unos meses después de la implementación de Odoo.
