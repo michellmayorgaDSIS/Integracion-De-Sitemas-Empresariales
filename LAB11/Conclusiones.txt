@@ -1,0 +1,9 @@
+﻿
+	Podemos concluir  que es  importante siempre  implementar  esta tegnolia en  el software 
+                        En este laboratorio se observo  mejor las herrmaientas y características que nos ofrece Odoo par ael desarrollo de ERP.
+	El agrupamento de los registros nos ofrece un gran abanico de alternativas para que el usuario tenga mejor interacion con el usuario 
+	Se observo las  vistas de Calendario colocando   y la vista dekanban, en los datos o registros
+                        Es claro saber que son grandes inversiones para obtener grandes resultados ultilizando el  registgro de las vistas  calendario dekaban
+                 
+
+
