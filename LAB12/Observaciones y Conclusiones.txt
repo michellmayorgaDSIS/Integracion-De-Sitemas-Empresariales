@@ -1,0 +1,7 @@
+﻿ El proceso de administrar permisos para poder acceder o realizar acciones en un sistema ya qeu sabemos que debemos gestionar los datos y tener buena seguridad
+Lleve un registro de los días de vacaciones de cada empleado. Con solo unos pocos clics, los empleados introducen sus solicitudes y los gerentes las aprueban y validan
+Estos sistemas nos permiten tener una plataforma real de cada uno de los procesos de la compañía, con el gestion efectiva
+ El módulo de website nos permite ahorrar una cantidad enorme de trabajo en el desarrollo 
+Actualmente quien no implemente software tecnológico en su empresa estará fuera del 
+La seguridad en odoo en los grupos de usuarios sus mecanismo se vinculan con los usuarios a tarves de  grupos
+		
